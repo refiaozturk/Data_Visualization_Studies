@@ -1,2 +1,2 @@
-# Data_Visualization_Studies
+# Data Visualization Studies
 This repository includes my data visualization studies on jupyter notebook.
